@@ -153,21 +153,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+userScreenShotTokenYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+userScreenShotToken我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+userScreenShotToken我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -184,21 +184,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+libraryInjectedYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+libraryInjected我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+libraryInjected我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -215,21 +215,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+repackagingYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+repackaging我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+repackaging我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -246,21 +246,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+debuggerYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+debugger我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+debugger我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -277,21 +277,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+jailbreakingYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+jailbreaking我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+jailbreaking我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -308,21 +308,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+rootYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+root我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+root我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -339,21 +339,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+emulatorYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+emulator我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+emulator我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -370,21 +370,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+hookingFrameworkYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+hookingFramework我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+hookingFramework我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -401,21 +401,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+nativeCodeHookingYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+nativeCodeHooking我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+nativeCodeHooking我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
@@ -432,21 +432,21 @@ Warning, we suggest closing this app, swipe forward for further details.
 <locale code="en">
 <title>Warning</title>
 <content>
-You cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
+trustedKeyboardYou cannot access further as it appears that you’re attempting to use an unauthorised version of the HSBC Business Express. To protect your account safety, please uninstall this version and download the official HSBC Business Express app from Apple App Store or Google Play™.
 </content>
 <button>OK</button>
 </locale>
 <locale code="zh">
 <title>警告</title>
 <content>
-我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
+trustedKeyboard我们侦测到您正尝试使用未经授权的汇丰Business Express，所以我们不能让您继续使用此程式登入。 为保障您的账户安全，请从Apple App Store 或 Google Play™下载官方认证的汇丰Business Express。
 </content>
 <button>确定</button>
 </locale>
 <locale code="zh_tw">
 <title>警告</title>
 <content>
-我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
+trustedKeyboard我們偵測到您正嘗試使用未經授權的滙豐Business Express，所以我們不能讓您繼續使用此程式登入。 為保障您的戶口安全，請從Apple App Store 或 Google Play™下載官方認證的滙豐Business Express。
 </content>
 <button>確認</button>
 </locale>
